@@ -1,0 +1,107 @@
+2020-10-12 17:34:29,861 :INFO : test_login :Getting Info
+2020-10-12 17:34:30,879 :INFO : test_login :Clicking on the login link to get login popup
+2020-10-12 17:34:31,281 :INFO : test_login :Clicking on Username Field
+2020-10-12 17:34:34,334 :INFO : test_login :Entering Email
+2020-10-12 17:34:48,850 :INFO : test_login :Clicking on Password Field
+2020-10-12 17:34:49,443 :INFO : test_login :Entering Password
+2020-10-12 17:34:49,523 :INFO : test_login :Submitting Login Info
+2020-10-12 17:36:32,789 :INFO : test_login :Getting Info
+2020-10-12 17:36:33,348 :INFO : test_login :Clicking on the login link to get login popup
+2020-10-12 17:36:34,018 :INFO : test_login :Clicking on Username Field
+2020-10-12 17:36:35,062 :INFO : test_login :Entering Email
+2020-10-12 17:36:35,247 :INFO : test_login :Clicking on Password Field
+2020-10-12 17:36:35,320 :INFO : test_login :Entering Password
+2020-10-12 17:36:35,675 :INFO : test_login :Submitting Login Info
+2020-10-12 17:39:26,438 :INFO : test_login :Getting Info
+2020-10-12 17:39:27,208 :INFO : test_login :Clicking on the login link to get login popup
+2020-10-12 17:39:28,027 :INFO : test_login :Clicking on Username Field
+2020-10-12 17:39:29,111 :INFO : test_login :Entering Email
+2020-10-12 17:39:29,641 :INFO : test_login :Clicking on Password Field
+2020-10-12 17:39:29,723 :INFO : test_login :Entering Password
+2020-10-12 17:39:31,651 :INFO : test_login :Submitting Login Info
+2020-10-12 17:41:11,822 :INFO : test_login :Getting Info
+2020-10-12 17:41:12,532 :INFO : test_login :Clicking on the login link to get login popup
+2020-10-12 17:41:12,900 :INFO : test_login :Clicking on Username Field
+2020-10-12 17:41:13,537 :INFO : test_login :Entering Email
+2020-10-12 17:41:13,611 :INFO : test_login :Clicking on Password Field
+2020-10-12 17:41:13,700 :INFO : test_login :Entering Password
+2020-10-12 17:41:13,775 :INFO : test_login :Submitting Login Info
+2020-10-12 17:43:30,939 :INFO : test_login :Getting Info
+2020-10-12 17:43:31,493 :INFO : test_login :Clicking on the login link to get login popup
+2020-10-12 17:43:32,250 :INFO : test_login :Clicking on Username Field
+2020-10-12 17:43:32,915 :INFO : test_login :Entering Email
+2020-10-12 17:43:40,322 :INFO : test_login :Clicking on Password Field
+2020-10-12 17:43:40,525 :INFO : test_login :Entering Password
+2020-10-12 17:43:40,590 :INFO : test_login :Submitting Login Info
+2020-10-12 17:44:18,550 :INFO : test_login :Getting Info
+2020-10-12 17:44:19,030 :INFO : test_login :Clicking on the login link to get login popup
+2020-10-12 17:44:19,628 :INFO : test_login :Clicking on Username Field
+2020-10-12 17:44:20,865 :INFO : test_login :Entering Email
+2020-10-12 17:44:21,105 :INFO : test_login :Clicking on Password Field
+2020-10-12 17:44:21,174 :INFO : test_login :Entering Password
+2020-10-12 17:44:21,334 :INFO : test_login :Submitting Login Info
+2020-10-12 17:45:36,873 :INFO : test_login :Getting Info
+2020-10-12 17:45:37,278 :INFO : test_login :Clicking on the login link to get login popup
+2020-10-12 17:45:37,587 :INFO : test_login :Clicking on Username Field
+2020-10-12 17:45:38,457 :INFO : test_login :Entering Email
+2020-10-12 17:45:38,521 :INFO : test_login :Clicking on Password Field
+2020-10-12 17:45:38,609 :INFO : test_login :Entering Password
+2020-10-12 17:45:38,667 :INFO : test_login :Submitting Login Info
+2020-10-12 17:46:40,295 :INFO : test_login :Getting Info
+2020-10-12 17:46:40,479 :INFO : test_login :Clicking on the login link to get login popup
+2020-10-12 17:46:40,841 :INFO : test_login :Clicking on Username Field
+2020-10-12 17:46:41,314 :INFO : test_login :Entering Email
+2020-10-12 17:46:41,379 :INFO : test_login :Clicking on Password Field
+2020-10-12 17:46:41,467 :INFO : test_login :Entering Password
+2020-10-12 17:46:41,532 :INFO : test_login :Submitting Login Info
+2020-10-12 17:47:39,420 :INFO : test_login :Getting Info
+2020-10-12 17:47:54,893 :INFO : test_login :Clicking on the login link to get login popup
+2020-10-12 17:47:55,604 :INFO : test_login :Clicking on Username Field
+2020-10-12 17:47:56,927 :INFO : test_login :Entering Email
+2020-10-12 17:47:57,056 :INFO : test_login :Clicking on Password Field
+2020-10-12 17:47:57,119 :INFO : test_login :Entering Password
+2020-10-12 17:47:58,629 :INFO : test_login :Submitting Login Info
+2020-10-12 18:20:38,315 :INFO : test_login :Getting Info
+2020-10-12 18:20:39,679 :INFO : test_login :Clicking on the login link to get login popup
+2020-10-12 18:20:40,486 :INFO : test_login :Clicking on Username Field
+2020-10-12 18:20:42,525 :INFO : test_login :Entering Email
+2020-10-12 18:20:42,649 :INFO : test_login :Clicking on Password Field
+2020-10-12 18:20:42,726 :INFO : test_login :Entering Password
+2020-10-12 18:20:43,081 :INFO : test_login :Submitting Login Info
+2020-10-12 18:23:51,332 :INFO : test_login :Getting Info
+2020-10-12 18:23:52,493 :INFO : test_login :Clicking on the login link to get login popup
+2020-10-12 18:23:53,571 :INFO : test_login :Clicking on Username Field
+2020-10-12 18:23:54,541 :INFO : test_login :Entering Email
+2020-10-12 18:23:54,690 :INFO : test_login :Clicking on Password Field
+2020-10-12 18:23:54,770 :INFO : test_login :Entering Password
+2020-10-12 18:23:57,187 :INFO : test_login :Submitting Login Info
+2020-10-12 18:29:42,443 :INFO : test_login :Getting Info
+2020-10-12 18:29:43,856 :INFO : test_login :Clicking on the login link to get login popup
+2020-10-12 18:29:44,837 :INFO : test_login :Clicking on Username Field
+2020-10-12 18:29:45,765 :INFO : test_login :Entering Email
+2020-10-12 18:29:45,941 :INFO : test_login :Clicking on Password Field
+2020-10-12 18:29:46,078 :INFO : test_login :Entering Password
+2020-10-12 18:29:46,320 :INFO : test_login :Submitting Login Info
+2020-10-13 17:55:25,556 :INFO : test_login :Getting Info
+2020-10-13 17:55:26,450 :INFO : test_login :Clicking on the login link to get login popup
+2020-10-13 17:55:27,829 :INFO : test_login :Clicking on Username Field
+2020-10-13 17:55:29,218 :INFO : test_login :Entering Email
+2020-10-13 17:55:29,470 :INFO : test_login :Clicking on Password Field
+2020-10-13 17:55:29,644 :INFO : test_login :Entering Password
+2020-10-13 17:55:29,712 :INFO : test_login :Submitting Login Info
+2020-10-13 18:00:54,300 :INFO : test_login :Getting Info
+2020-10-13 18:00:55,694 :INFO : test_login :Clicking on the login link to get login popup
+2020-10-13 18:00:57,482 :INFO : test_login :Clicking on Username Field
+2020-10-13 18:17:09,112 :INFO : test_login :Getting Info
+2020-10-13 18:17:11,197 :INFO : test_login :Clicking on the login link to get login popup
+2020-10-13 18:17:12,163 :INFO : test_login :Clicking on Username Field
+2020-10-13 18:20:16,372 :INFO : test_login :Getting Info
+2020-10-13 18:20:40,054 :INFO : test_login :Clicking on the login link to get login popup
+2020-10-13 18:20:40,687 :INFO : test_login :Clicking on Username Field
+2020-10-13 18:27:26,319 :INFO : test_login :Getting Info
+2020-10-13 18:27:27,024 :INFO : test_login :Clicking on the login link to get login popup
+2020-10-13 18:27:27,691 :INFO : test_login :Clicking on Username Field
+2020-10-13 18:27:29,429 :INFO : test_login :Entering Email
+2020-10-13 18:27:29,522 :INFO : test_login :Clicking on Password Field
+2020-10-13 18:27:29,594 :INFO : test_login :Entering Password
+2020-10-13 18:27:29,687 :INFO : test_login :Submitting Login Info

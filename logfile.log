@@ -1,0 +1,7 @@
+2020-10-12 17:57:44,281 :INFO : test_login :Getting Info
+2020-10-12 17:57:45,012 :INFO : test_login :Clicking on the login link to get login popup
+2020-10-12 17:57:47,266 :INFO : test_login :Clicking on Username Field
+2020-10-12 17:57:48,533 :INFO : test_login :Entering Email
+2020-10-12 17:57:48,641 :INFO : test_login :Clicking on Password Field
+2020-10-12 17:57:48,710 :INFO : test_login :Entering Password
+2020-10-12 17:57:48,768 :INFO : test_login :Submitting Login Info
