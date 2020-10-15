@@ -11,6 +11,7 @@ class LoginSignup:
     loginUserName = (By.ID, "login-username")
     loginPassword = (By.ID, "login-password")
     loginButton = (By.ID, "login-button")
+    loginIcon = (By.XPATH, "//*[@id ='welcome']/img")
 
     def getLoginPopupLink(self):
         return self.driver.find_element(*LoginSignup.loginLink)
@@ -23,6 +24,9 @@ class LoginSignup:
 
     def getLoginButton(self):
         return self.driver.find_element(*LoginSignup.loginButton)
+
+    def getLoginicon(self):
+        return self.driver.find_element(*LoginSignup.loginIcon)
 
 
 #Signup Form Data Below
@@ -59,6 +63,16 @@ class LoginSignup:
 
     def getSignUpSubmitBtn(self):
         return self.driver.find_element(*LoginSignup.signUpSubmitBtn)
+
+
+    # Logout
+
+    logoutLink = (By.LINK_TEXT, "SIGNOUT")
+
+    def getLogoutLink(self):
+        return self.driver.find_element(*LoginSignup.logoutLink)
+
+
 
 
 

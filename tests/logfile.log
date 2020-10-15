@@ -105,3 +105,289 @@
 2020-10-13 18:27:29,522 :INFO : test_login :Clicking on Password Field
 2020-10-13 18:27:29,594 :INFO : test_login :Entering Password
 2020-10-13 18:27:29,687 :INFO : test_login :Submitting Login Info
+2020-10-14 17:30:37,589 :INFO : test_login :Getting Info
+2020-10-14 17:30:39,802 :INFO : test_login :Clicking on the login link to get login popup
+2020-10-14 17:30:41,497 :INFO : test_login :Clicking on Username Field
+2020-10-14 17:30:44,794 :INFO : test_login :Entering Email
+2020-10-14 17:30:45,677 :INFO : test_login :Clicking on Password Field
+2020-10-14 17:30:45,819 :INFO : test_login :Entering Password
+2020-10-14 17:30:45,905 :INFO : test_login :Submitting Login Info
+2020-10-15 11:09:14,178 :INFO : test_login :Getting Info
+2020-10-15 11:09:14,643 :INFO : test_login :Clicking on the login link to get login popup
+2020-10-15 11:09:15,328 :INFO : test_login :Clicking on Username Field
+2020-10-15 11:09:16,783 :INFO : test_login :Entering Email
+2020-10-15 11:09:16,879 :INFO : test_login :Clicking on Password Field
+2020-10-15 11:09:16,954 :INFO : test_login :Entering Password
+2020-10-15 11:09:17,034 :INFO : test_login :Submitting Login Info
+2020-10-15 11:51:42,544 :INFO : test_signup :Clicked on Sigup Popup
+2020-10-15 11:51:43,007 :INFO : test_signup :Clicked on Name Field
+2020-10-15 11:51:44,078 :INFO : test_signup :Entered Sigup Name
+2020-10-15 11:51:44,254 :INFO : test_signup :Clicked on Email Field
+2020-10-15 11:51:44,462 :INFO : test_signup :Entered  Email
+2020-10-15 11:51:44,577 :INFO : test_signup :Clicked on Password Field
+2020-10-15 11:51:44,686 :INFO : test_signup :Entered Password
+2020-10-15 11:51:44,840 :INFO : test_signup :Clicked on Sigup Terms
+2020-10-15 11:51:45,129 :INFO : test_signup :Clicked on Country Code Filed
+2020-10-15 11:51:45,183 :INFO : test_signup :Cleared Country Code Filed
+2020-10-15 11:51:45,252 :INFO : test_signup :Entered Country Code
+2020-10-15 11:51:45,317 :INFO : test_signup :Clicked on Phone No. Filed
+2020-10-15 11:51:45,403 :INFO : test_signup :Entered Phone No.
+2020-10-15 11:51:45,474 :INFO : test_signup :Clicked on Sigup Button
+2020-10-15 11:58:58,431 :INFO : test_signup :Clicked on Sigup Popup
+2020-10-15 11:58:59,015 :INFO : test_signup :Clicked on Name Field
+2020-10-15 11:59:00,368 :INFO : test_signup :Entered Sigup Name
+2020-10-15 11:59:00,505 :INFO : test_signup :Clicked on Email Field
+2020-10-15 11:59:00,795 :INFO : test_signup :Entered  Email
+2020-10-15 11:59:00,905 :INFO : test_signup :Clicked on Password Field
+2020-10-15 11:59:01,018 :INFO : test_signup :Entered Password
+2020-10-15 11:59:01,093 :INFO : test_signup :Clicked on Sigup Terms
+2020-10-15 11:59:01,179 :INFO : test_signup :Clicked on Country Code Filed
+2020-10-15 11:59:01,238 :INFO : test_signup :Cleared Country Code Filed
+2020-10-15 11:59:01,307 :INFO : test_signup :Entered Country Code
+2020-10-15 11:59:01,380 :INFO : test_signup :Clicked on Phone No. Filed
+2020-10-15 11:59:01,461 :INFO : test_signup :Entered Phone No.
+2020-10-15 11:59:01,524 :INFO : test_signup :Clicked on Sigup Button
+2020-10-15 11:59:49,806 :INFO : test_login :Getting Info
+2020-10-15 12:00:40,384 :INFO : test_signup :Clicked on Sigup Popup
+2020-10-15 12:00:43,188 :INFO : test_signup :Clicked on Name Field
+2020-10-15 12:00:44,341 :INFO : test_signup :Entered Sigup Name
+2020-10-15 12:00:44,710 :INFO : test_signup :Clicked on Email Field
+2020-10-15 12:00:44,927 :INFO : test_signup :Entered  Email
+2020-10-15 12:00:45,579 :INFO : test_signup :Clicked on Password Field
+2020-10-15 12:00:45,685 :INFO : test_signup :Entered Password
+2020-10-15 12:00:45,760 :INFO : test_signup :Clicked on Sigup Terms
+2020-10-15 12:00:45,836 :INFO : test_signup :Clicked on Country Code Filed
+2020-10-15 12:00:45,934 :INFO : test_signup :Cleared Country Code Filed
+2020-10-15 12:00:46,009 :INFO : test_signup :Entered Country Code
+2020-10-15 12:00:46,070 :INFO : test_signup :Clicked on Phone No. Filed
+2020-10-15 12:00:46,149 :INFO : test_signup :Entered Phone No.
+2020-10-15 12:00:46,233 :INFO : test_signup :Clicked on Sigup Button
+2020-10-15 12:04:08,316 :INFO : test_login :Getting Info
+2020-10-15 12:04:08,435 :INFO : test_login :Clicking on the login link to get login popup
+2020-10-15 12:04:42,313 :INFO : test_signup :Clicked on Sigup Popup
+2020-10-15 12:04:43,884 :INFO : test_signup :Clicked on Name Field
+2020-10-15 12:04:48,895 :INFO : test_signup :Entered Sigup Name
+2020-10-15 12:04:48,964 :INFO : test_signup :Clicked on Email Field
+2020-10-15 12:04:49,161 :INFO : test_signup :Entered  Email
+2020-10-15 12:04:49,236 :INFO : test_signup :Clicked on Password Field
+2020-10-15 12:04:49,307 :INFO : test_signup :Entered Password
+2020-10-15 12:04:49,386 :INFO : test_signup :Clicked on Sigup Terms
+2020-10-15 12:04:49,471 :INFO : test_signup :Clicked on Country Code Filed
+2020-10-15 12:04:49,518 :INFO : test_signup :Cleared Country Code Filed
+2020-10-15 12:04:49,590 :INFO : test_signup :Entered Country Code
+2020-10-15 12:04:49,668 :INFO : test_signup :Clicked on Phone No. Filed
+2020-10-15 12:04:49,845 :INFO : test_signup :Entered Phone No.
+2020-10-15 12:04:50,050 :INFO : test_signup :Clicked on Sigup Button
+2020-10-15 12:07:40,978 :INFO : test_login :Getting Info
+2020-10-15 12:07:42,190 :INFO : test_login :Clicking on the login link to get login popup
+2020-10-15 12:07:42,628 :INFO : test_login :Clicking on Username Field
+2020-10-15 12:07:43,520 :INFO : test_login :Entering Email
+2020-10-15 12:07:43,740 :INFO : test_login :Clicking on Password Field
+2020-10-15 12:07:43,803 :INFO : test_login :Entering Password
+2020-10-15 12:07:43,862 :INFO : test_login :Submitting Login Info
+2020-10-15 12:08:28,883 :INFO : test_signup :Clicked on Sigup Popup
+2020-10-15 12:08:30,108 :INFO : test_signup :Clicked on Name Field
+2020-10-15 12:08:32,005 :INFO : test_signup :Entered Sigup Name
+2020-10-15 12:08:32,187 :INFO : test_signup :Clicked on Email Field
+2020-10-15 12:08:32,324 :INFO : test_signup :Entered  Email
+2020-10-15 12:08:32,527 :INFO : test_signup :Clicked on Password Field
+2020-10-15 12:08:32,696 :INFO : test_signup :Entered Password
+2020-10-15 12:08:32,829 :INFO : test_signup :Clicked on Sigup Terms
+2020-10-15 12:08:32,995 :INFO : test_signup :Clicked on Country Code Filed
+2020-10-15 12:08:33,259 :INFO : test_signup :Cleared Country Code Filed
+2020-10-15 12:08:33,323 :INFO : test_signup :Entered Country Code
+2020-10-15 12:08:33,396 :INFO : test_signup :Clicked on Phone No. Filed
+2020-10-15 12:08:33,470 :INFO : test_signup :Entered Phone No.
+2020-10-15 12:08:33,568 :INFO : test_signup :Clicked on Sigup Button
+2020-10-15 12:08:50,615 :INFO : test_signup :Clicked on Sigup Popup
+2020-10-15 12:08:50,615 :INFO : test_signup :Clicked on Sigup Popup
+2020-10-15 12:08:51,333 :INFO : test_signup :Clicked on Name Field
+2020-10-15 12:08:51,333 :INFO : test_signup :Clicked on Name Field
+2020-10-15 12:08:52,083 :INFO : test_signup :Entered Sigup Name
+2020-10-15 12:08:52,083 :INFO : test_signup :Entered Sigup Name
+2020-10-15 12:08:52,327 :INFO : test_signup :Clicked on Email Field
+2020-10-15 12:08:52,327 :INFO : test_signup :Clicked on Email Field
+2020-10-15 12:08:52,534 :INFO : test_signup :Entered  Email
+2020-10-15 12:08:52,534 :INFO : test_signup :Entered  Email
+2020-10-15 12:08:52,624 :INFO : test_signup :Clicked on Password Field
+2020-10-15 12:08:52,624 :INFO : test_signup :Clicked on Password Field
+2020-10-15 12:08:52,719 :INFO : test_signup :Entered Password
+2020-10-15 12:08:52,719 :INFO : test_signup :Entered Password
+2020-10-15 12:08:52,808 :INFO : test_signup :Clicked on Sigup Terms
+2020-10-15 12:08:52,808 :INFO : test_signup :Clicked on Sigup Terms
+2020-10-15 12:08:52,909 :INFO : test_signup :Clicked on Country Code Filed
+2020-10-15 12:08:52,909 :INFO : test_signup :Clicked on Country Code Filed
+2020-10-15 12:08:53,013 :INFO : test_signup :Cleared Country Code Filed
+2020-10-15 12:08:53,013 :INFO : test_signup :Cleared Country Code Filed
+2020-10-15 12:08:53,113 :INFO : test_signup :Entered Country Code
+2020-10-15 12:08:53,113 :INFO : test_signup :Entered Country Code
+2020-10-15 12:08:53,278 :INFO : test_signup :Clicked on Phone No. Filed
+2020-10-15 12:08:53,278 :INFO : test_signup :Clicked on Phone No. Filed
+2020-10-15 12:08:53,405 :INFO : test_signup :Entered Phone No.
+2020-10-15 12:08:53,405 :INFO : test_signup :Entered Phone No.
+2020-10-15 12:08:53,486 :INFO : test_signup :Clicked on Sigup Button
+2020-10-15 12:08:53,486 :INFO : test_signup :Clicked on Sigup Button
+2020-10-15 12:11:06,003 :INFO : test_login :Getting Info
+2020-10-15 12:11:11,408 :INFO : test_login :Clicking on the login link to get login popup
+2020-10-15 12:11:11,893 :INFO : test_login :Clicking on Username Field
+2020-10-15 12:11:13,017 :INFO : test_login :Entering Email
+2020-10-15 12:11:13,108 :INFO : test_login :Clicking on Password Field
+2020-10-15 12:11:13,205 :INFO : test_login :Entering Password
+2020-10-15 12:11:13,287 :INFO : test_login :Submitting Login Info
+2020-10-15 12:11:37,415 :INFO : test_signup :Clicked on Sigup Popup
+2020-10-15 12:11:37,889 :INFO : test_signup :Clicked on Name Field
+2020-10-15 12:11:38,555 :INFO : test_signup :Entered Sigup Name
+2020-10-15 12:11:38,642 :INFO : test_signup :Clicked on Email Field
+2020-10-15 12:11:38,814 :INFO : test_signup :Entered  Email
+2020-10-15 12:11:38,907 :INFO : test_signup :Clicked on Password Field
+2020-10-15 12:11:39,099 :INFO : test_signup :Entered Password
+2020-10-15 12:11:39,191 :INFO : test_signup :Clicked on Sigup Terms
+2020-10-15 12:11:39,285 :INFO : test_signup :Clicked on Country Code Filed
+2020-10-15 12:11:39,385 :INFO : test_signup :Cleared Country Code Filed
+2020-10-15 12:11:39,511 :INFO : test_signup :Entered Country Code
+2020-10-15 12:11:40,524 :INFO : test_signup :Clicked on Phone No. Filed
+2020-10-15 12:11:40,892 :INFO : test_signup :Entered Phone No.
+2020-10-15 12:11:41,098 :INFO : test_signup :Clicked on Sigup Button
+2020-10-15 12:13:03,641 :INFO : test_signup :Clicked on Sigup Popup
+2020-10-15 12:13:04,576 :INFO : test_signup :Clicked on Name Field
+2020-10-15 12:13:06,184 :INFO : test_signup :Entered Sigup Name
+2020-10-15 12:13:06,585 :INFO : test_signup :Clicked on Email Field
+2020-10-15 12:13:06,769 :INFO : test_signup :Entered  Email
+2020-10-15 12:13:06,851 :INFO : test_signup :Clicked on Password Field
+2020-10-15 12:13:06,931 :INFO : test_signup :Entered Password
+2020-10-15 12:13:07,003 :INFO : test_signup :Clicked on Sigup Terms
+2020-10-15 12:13:07,077 :INFO : test_signup :Clicked on Country Code Filed
+2020-10-15 12:13:07,124 :INFO : test_signup :Cleared Country Code Filed
+2020-10-15 12:13:07,200 :INFO : test_signup :Entered Country Code
+2020-10-15 12:13:07,272 :INFO : test_signup :Clicked on Phone No. Filed
+2020-10-15 12:13:07,347 :INFO : test_signup :Entered Phone No.
+2020-10-15 12:13:07,420 :INFO : test_signup :Clicked on Sigup Button
+2020-10-15 12:14:21,621 :INFO : test_login :Getting Info
+2020-10-15 12:14:21,882 :INFO : test_login :Clicking on the login link to get login popup
+2020-10-15 12:14:22,213 :INFO : test_login :Clicking on Username Field
+2020-10-15 12:14:22,747 :INFO : test_login :Entering Email
+2020-10-15 12:14:22,892 :INFO : test_login :Clicking on Password Field
+2020-10-15 12:14:22,997 :INFO : test_login :Entering Password
+2020-10-15 12:14:23,091 :INFO : test_login :Submitting Login Info
+2020-10-15 12:18:12,146 :INFO : test_signup :Clicked on Sigup Popup
+2020-10-15 12:18:12,931 :INFO : test_signup :Clicked on Name Field
+2020-10-15 12:18:13,659 :INFO : test_signup :Entered Sigup Name
+2020-10-15 12:18:13,797 :INFO : test_signup :Clicked on Email Field
+2020-10-15 12:18:13,936 :INFO : test_signup :Entered  Email
+2020-10-15 12:18:14,042 :INFO : test_signup :Clicked on Password Field
+2020-10-15 12:18:14,171 :INFO : test_signup :Entered Password
+2020-10-15 12:18:14,263 :INFO : test_signup :Clicked on Sigup Terms
+2020-10-15 12:18:14,338 :INFO : test_signup :Clicked on Country Code Filed
+2020-10-15 12:18:14,433 :INFO : test_signup :Cleared Country Code Filed
+2020-10-15 12:18:14,541 :INFO : test_signup :Entered Country Code
+2020-10-15 12:18:14,641 :INFO : test_signup :Clicked on Phone No. Filed
+2020-10-15 12:18:14,762 :INFO : test_signup :Entered Phone No.
+2020-10-15 12:18:14,985 :INFO : test_signup :Clicked on Sigup Button
+2020-10-15 12:18:41,914 :INFO : test_login :Getting Info
+2020-10-15 12:18:52,764 :INFO : test_login :Clicking on the login link to get login popup
+2020-10-15 12:18:53,625 :INFO : test_login :Clicking on Username Field
+2020-10-15 12:18:54,755 :INFO : test_login :Entering Email
+2020-10-15 12:18:54,847 :INFO : test_login :Clicking on Password Field
+2020-10-15 12:18:54,942 :INFO : test_login :Entering Password
+2020-10-15 12:18:55,114 :INFO : test_login :Submitting Login Info
+2020-10-15 12:19:36,129 :INFO : test_login :Getting Info
+2020-10-15 12:19:36,658 :INFO : test_login :Clicking on the login link to get login popup
+2020-10-15 12:19:43,986 :INFO : test_login :Clicking on Username Field
+2020-10-15 12:19:45,729 :INFO : test_login :Entering Email
+2020-10-15 12:19:45,927 :INFO : test_login :Clicking on Password Field
+2020-10-15 12:19:46,354 :INFO : test_login :Entering Password
+2020-10-15 12:19:46,606 :INFO : test_login :Submitting Login Info
+2020-10-15 12:20:06,162 :INFO : test_signup :Clicked on Sigup Popup
+2020-10-15 12:20:08,229 :INFO : test_signup :Clicked on Name Field
+2020-10-15 12:20:14,885 :INFO : test_signup :Entered Sigup Name
+2020-10-15 12:20:15,253 :INFO : test_signup :Clicked on Email Field
+2020-10-15 12:20:15,448 :INFO : test_signup :Entered  Email
+2020-10-15 12:20:15,553 :INFO : test_signup :Clicked on Password Field
+2020-10-15 12:20:15,663 :INFO : test_signup :Entered Password
+2020-10-15 12:20:15,809 :INFO : test_signup :Clicked on Sigup Terms
+2020-10-15 12:20:16,137 :INFO : test_signup :Clicked on Country Code Filed
+2020-10-15 12:20:16,237 :INFO : test_signup :Cleared Country Code Filed
+2020-10-15 12:20:16,340 :INFO : test_signup :Entered Country Code
+2020-10-15 12:20:16,444 :INFO : test_signup :Clicked on Phone No. Filed
+2020-10-15 12:20:16,597 :INFO : test_signup :Entered Phone No.
+2020-10-15 12:20:16,732 :INFO : test_signup :Clicked on Sigup Button
+2020-10-15 13:08:16,051 :INFO : test_login :Getting Info
+2020-10-15 13:08:18,215 :INFO : test_login :Clicking on the login link to get login popup
+2020-10-15 13:08:19,090 :INFO : test_login :Clicking on Username Field
+2020-10-15 13:08:20,885 :INFO : test_login :Entering Email
+2020-10-15 13:08:21,708 :INFO : test_login :Clicking on Password Field
+2020-10-15 13:08:21,824 :INFO : test_login :Entering Password
+2020-10-15 13:08:21,897 :INFO : test_login :Submitting Login Info
+2020-10-15 13:15:37,429 :INFO : test_login :Getting Info
+2020-10-15 13:15:38,193 :INFO : test_login :Clicking on the login link to get login popup
+2020-10-15 13:15:38,372 :INFO : test_login :Clicking on Username Field
+2020-10-15 13:15:39,166 :INFO : test_login :Entering Email
+2020-10-15 13:15:39,245 :INFO : test_login :Clicking on Password Field
+2020-10-15 13:15:39,425 :INFO : test_login :Entering Password
+2020-10-15 13:15:39,502 :INFO : test_login :Submitting Login Info
+2020-10-15 13:15:40,683 :INFO : test_logout :Clicked On Login Icon
+2020-10-15 13:15:41,758 :INFO : test_logout :Clicked on Logout link
+2020-10-15 13:25:45,470 :INFO : test_login :Getting Info
+2020-10-15 13:25:47,205 :INFO : test_login :Clicking on the login link to get login popup
+2020-10-15 13:25:48,958 :INFO : test_login :Clicking on Username Field
+2020-10-15 13:25:51,823 :INFO : test_login :Entering Email
+2020-10-15 13:25:52,395 :INFO : test_login :Clicking on Password Field
+2020-10-15 13:25:52,525 :INFO : test_login :Entering Password
+2020-10-15 13:25:52,605 :INFO : test_login :Submitting Login Info
+2020-10-15 13:25:56,208 :INFO : test_logout :Clicked On Login Icon
+2020-10-15 13:25:57,900 :INFO : test_logout :Clicked on Logout link
+2020-10-15 13:31:41,593 :INFO : test_login :Getting Info
+2020-10-15 13:31:42,905 :INFO : test_login :Clicking on the login link to get login popup
+2020-10-15 13:31:44,194 :INFO : test_login :Clicking on Username Field
+2020-10-15 13:31:46,280 :INFO : test_login :Entering Email
+2020-10-15 13:31:47,000 :INFO : test_login :Clicking on Password Field
+2020-10-15 13:31:47,074 :INFO : test_login :Entering Password
+2020-10-15 13:31:47,132 :INFO : test_login :Submitting Login Info
+2020-10-15 13:31:55,649 :INFO : test_logout :Clicked On Login Icon
+2020-10-15 13:32:01,001 :INFO : test_logout :Clicked on Logout link
+2020-10-15 13:32:27,210 :INFO : test_signup :Clicked on Sigup Popup
+2020-10-15 13:32:28,085 :INFO : test_signup :Clicked on Name Field
+2020-10-15 13:32:29,730 :INFO : test_signup :Entered Sigup Name
+2020-10-15 13:32:29,816 :INFO : test_signup :Clicked on Email Field
+2020-10-15 13:32:29,993 :INFO : test_signup :Entered  Email
+2020-10-15 13:32:30,269 :INFO : test_signup :Clicked on Password Field
+2020-10-15 13:32:30,427 :INFO : test_signup :Entered Password
+2020-10-15 13:32:30,508 :INFO : test_signup :Clicked on Sigup Terms
+2020-10-15 13:32:30,582 :INFO : test_signup :Clicked on Country Code Filed
+2020-10-15 13:32:30,743 :INFO : test_signup :Cleared Country Code Filed
+2020-10-15 13:32:30,842 :INFO : test_signup :Entered Country Code
+2020-10-15 13:32:30,913 :INFO : test_signup :Clicked on Phone No. Filed
+2020-10-15 13:32:31,006 :INFO : test_signup :Entered Phone No.
+2020-10-15 13:32:31,131 :INFO : test_signup :Clicked on Sigup Button
+2020-10-15 13:37:57,103 :INFO : test_login :Getting Info
+2020-10-15 13:37:58,589 :INFO : test_login :Clicking on the login link to get login popup
+2020-10-15 13:37:59,292 :INFO : test_login :Clicking on Username Field
+2020-10-15 13:38:01,180 :INFO : test_login :Entering Email
+2020-10-15 13:38:01,365 :INFO : test_login :Clicking on Password Field
+2020-10-15 13:38:01,456 :INFO : test_login :Entering Password
+2020-10-15 13:38:01,606 :INFO : test_login :Submitting Login Info
+2020-10-15 13:40:41,274 :INFO : test_login :Getting Info
+2020-10-15 13:40:47,357 :INFO : test_login :Clicking on the login link to get login popup
+2020-10-15 13:40:47,700 :INFO : test_login :Clicking on Username Field
+2020-10-15 13:40:48,694 :INFO : test_login :Entering Email
+2020-10-15 13:40:48,785 :INFO : test_login :Clicking on Password Field
+2020-10-15 13:40:49,037 :INFO : test_login :Entering Password
+2020-10-15 13:40:49,234 :INFO : test_login :Submitting Login Info
+2020-10-15 13:42:24,244 :INFO : test_login :Getting Info
+2020-10-15 13:42:25,121 :INFO : test_login :Clicking on the login link to get login popup
+2020-10-15 13:42:25,829 :INFO : test_login :Clicking on Username Field
+2020-10-15 13:42:26,870 :INFO : test_login :Entering Email
+2020-10-15 13:42:27,025 :INFO : test_login :Clicking on Password Field
+2020-10-15 13:42:27,123 :INFO : test_login :Entering Password
+2020-10-15 13:42:27,227 :INFO : test_login :Submitting Login Info
+2020-10-15 13:42:30,806 :INFO : test_logout :Clicked On Login Icon
+2020-10-15 13:42:31,606 :INFO : test_logout :Clicked on Logout link
+2020-10-15 17:11:54,254 :INFO : test_login :Getting Info
+2020-10-15 17:11:56,056 :INFO : test_login :Clicking on the login link to get login popup
+2020-10-15 17:11:57,194 :INFO : test_login :Clicking on Username Field
+2020-10-15 17:12:00,258 :INFO : test_login :Entering Email
+2020-10-15 17:12:00,511 :INFO : test_login :Clicking on Password Field
+2020-10-15 17:12:00,689 :INFO : test_login :Entering Password
+2020-10-15 17:12:01,101 :INFO : test_login :Submitting Login Info
+2020-10-15 17:12:02,867 :INFO : test_logout :Clicked On Login Icon
+2020-10-15 17:12:04,091 :INFO : test_logout :Clicked on Logout link

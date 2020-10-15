@@ -9,6 +9,7 @@ class Test_Login(BaseClass):
 
     def test_login(self, getData):
         log = self.getLogger()
+
         login = LoginSignup(self.driver)
 
         log.info("Getting Info")
@@ -30,11 +31,31 @@ class Test_Login(BaseClass):
 
         self.driver.implicitly_wait(100000)
 
-        loginSucess = self.driver.find_element_by_xpath("//*[@id ='welcome']/img").is_displayed()
-        #log.info("Getting login Status" + loginSucess)
+        loginSucess = login.getLoginicon().is_displayed()
 
-        assert (loginSucess)
+        assert loginSucess
 
+        # if loginSucess == True:
+        #     return loginSucess
+        # else:
+        #     return False
+
+
+
+    def test_logout(self):
+        log = self.getLogger()
+        logout = LoginSignup(self.driver)
+
+
+        logout.getLoginicon().click()
+        log.info("Clicked On Login Icon")
+        logout.getLogoutLink().click()
+        log.info("Clicked on Logout link")
+        self.driver.implicitly_wait(50000)
+
+        logoutSucess = logout.getLoginPopupLink().is_displayed()
+
+        assert logoutSucess
 
 
 
